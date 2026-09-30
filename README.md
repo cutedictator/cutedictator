@@ -45,3 +45,5 @@
   <!-- Fallback for standard browsers -->
   <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-09-30-13e5c240-4c3d-4553-81ec-19a2bbb0c47a.png">
 </picture>
+
+```animation by: mikaria```
