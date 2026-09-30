@@ -1,3 +1,7 @@
+
+(has technical issues and somehow the code only works in mobile phones 😭😭💔)
+
+
 <picture>
   <!-- When user is in Dark Mode, show a transparent 1x1 spacer (hides the image) -->
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-43606111-13d9-49d3-82f8-527f9b33d146.png">
@@ -6,7 +10,7 @@
   <!-- Fallback for standard browsers -->
   <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-09-30-bcc1e493-96e5-4ff4-8591-c1cc107ea55b.png">
 </picture>
-(has technical issues and somehow the code only works in mobile phones 😭😭💔)
+
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.image2url.com/r2/default/gifs/1790765618711-79598ae5-2db6-424d-bd27-88176dfd10bb.gif">
