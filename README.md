@@ -28,9 +28,9 @@
   <!-- When user is in Dark Mode, show a transparent 1x1 spacer (hides the image) -->
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-43606111-13d9-49d3-82f8-527f9b33d146.png">
   <!-- When user is in Light Mode, show your actual image/GIF -->
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-10-01-b48790de-be4c-4516-a631-3075d9a935bb.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-10-01-94116ee3-3248-4e1c-aebe-69b24cd86dc7.png">
   <!-- Fallback for standard browsers -->
-  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-b48790de-be4c-4516-a631-3075d9a935bb.png.png" width="1000">
+  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-94116ee3-3248-4e1c-aebe-69b24cd86dc7.png" width="1000">
 </picture>
 
 <picture>
