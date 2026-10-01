@@ -20,7 +20,7 @@
   <!-- When user is in Light Mode, show your actual image/GIF -->
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-10-01-ab4bee6e-34e2-44c9-a072-bf82b5cd14bf.png">
   <!-- Fallback for standard browsers -->
-  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-ab4bee6e-34e2-44c9-a072-bf82b5cd14bf.png" width="1000">
+  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-433fd768-6731-4df0-b994-f44fbb593f22.png" width="1000">
 </picture>
 
 <picture>
@@ -56,6 +56,6 @@
   <!-- When user is in Light Mode, show your actual image/GIF -->
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-10-01-ab4bee6e-34e2-44c9-a072-bf82b5cd14bf.png">
   <!-- Fallback for standard browsers -->
-  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-ab4bee6e-34e2-44c9-a072-bf82b5cd14bf.png" width="1000">
+  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-433fd768-6731-4df0-b994-f44fbb593f22.png" width="1000">
 </picture>
 
