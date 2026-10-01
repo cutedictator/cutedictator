@@ -14,6 +14,14 @@
   <img alt="Project Logo" src="https://cdn.phototourl.com/member/2026-09-30-cee96fef-a015-43c8-a1c4-dfcc01162e37.png" width="1000">
 </picture>
 
+<picture>
+  <!-- When user is in Dark Mode, show a transparent 1x1 spacer (hides the image) -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-43606111-13d9-49d3-82f8-527f9b33d146.png">
+  <!-- When user is in Light Mode, show your actual image/GIF -->
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-10-01-a887ad40-70d0-4038-83d1-088ea424dc70.png">
+  <!-- Fallback for standard browsers -->
+  <img alt="Light Mode Only Feature" src="https://cdn.phototourl.com/member/2026-10-01-a887ad40-70d0-4038-83d1-088ea424dc70.png" width="1000">
+</picture>
 
 
 <picture>
